@@ -1,6 +1,6 @@
 mgm_ip: 10.0.2.1
 vlans:
-  pink:
+  yellow:
    id: 10
  blue:
    id: 20
